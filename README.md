@@ -1,2 +1,1 @@
-# Ambiance-Minty-Cinnamon
-Ambiance Minty, fixed for Cinnamon 3.2+
+Moved to https://gitlab.com/Feren-OS-Dev/Ambiance-Minty-Cinnamon
